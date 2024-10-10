@@ -1,8 +1,8 @@
 # Author = Raed Ahsan
 # Creation  Date = 06/07/2022
-# Project by R-Security
+# Project by Rtelligenc
 # Linkedin = https://linkedin.com/in/raed-ahsan
-# Youtube = https://youtube.com/channel/UCNXIyXPyrzt3YOxgkdEDpuA
+# Youtube = https://youtube.com/@rtelligenc
 # patreon = https://www.patreon.com/raedahsan?fan_landing=true
 # Github = https://github.com/R-Security
 
@@ -11,7 +11,7 @@
 import requests
 import time
 
-print('\033[1m', "Welcome to Rsecurity Crevall generator", '\033[0m')    
+print('\033[1m', "Welcome to Rtelligenc Crevall generator", '\033[0m')    
 
 # For C windows reverse shell generation
 def C_windows():
